@@ -35,7 +35,7 @@ footer {
 }
 
 body{
-	background-image: url('../images/stargen2.png');
+	background-image: url('stargen2.png');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
