@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/*
+   Final Project
+   Author: Diego Goslar
+   Date:   7/28/2022
+
+   Filename: multisheet.css
+
+*/
+
+/* Audio and Video Player Styles */
+video {
+	box-shadow: white 8px 8px 15px;
+	display: block;
+	padding-top: 10px;
+	margin: auto;
+	width: 90%;
+}
+audio{
+	padding-top: 12px;
+}
+
+#figure1{
+	margin:auto;
+	padding-bottom: 2px;
+	transform: rotate(-10deg) scale(0.8, 0.8) translate(155px, -90px) rotateZ(15deg) rotateY(-20deg);
+	text-align: center;
+}
